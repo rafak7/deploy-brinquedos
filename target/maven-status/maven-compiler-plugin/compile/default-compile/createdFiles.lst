@@ -1,0 +1,5 @@
+com/fiap/brinquedos/BrinquedosApplication.class
+com/fiap/brinquedos/service/BrinquedoService.class
+com/fiap/brinquedos/entity/Brinquedo.class
+com/fiap/brinquedos/repository/BrinquedoRepository.class
+com/fiap/brinquedos/controller/BrinquedoController.class
